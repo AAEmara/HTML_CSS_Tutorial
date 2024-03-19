@@ -15,3 +15,7 @@
   - The second with your favorite food.
 - 1c. Create a paragraph with the text "Hello, World!" inside.
 - 1d. Create a paragraph below the previous paragraph and write something you did today.
+- 1e. Create a link to google.com (or a similar website for your country).
+- 1f. Make the link from the previous exercise (1e.) open in a new tab.
+#### Challenge Exercise
+- 1g. Try to copy this design (minute 17:36) using HTML (the link goes to amazon.com).
