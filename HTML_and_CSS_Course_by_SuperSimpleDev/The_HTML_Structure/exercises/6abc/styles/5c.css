@@ -1,0 +1,36 @@
+p {
+  font-family: Verdana;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.heading-text {
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.slang-text {
+  color: grey;
+  margin-top: 4px;
+  font-size: 16px;
+}
+
+.intro-text {
+  width: 300px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-size: 16px;
+}
+
+button {
+  background-color: rgb(2,116,3);
+  color: white;
+  border: none;
+  border-radius: 6px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 20px;
+  padding-right: 20px;
+  font-size: 14px;
+  cursor: pointer;
+}

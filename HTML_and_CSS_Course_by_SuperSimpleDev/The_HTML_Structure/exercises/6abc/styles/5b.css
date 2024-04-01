@@ -1,0 +1,16 @@
+p {
+  font-family: Arial;
+  margin-bottom: 0;
+  margin-top: 0;
+}
+
+.announcement-text {
+  font-weight: bold;
+  font-size: 22px;
+}
+
+.offer-text {
+  color: rgb(176,46,43);
+  font-style: italic;
+  margin-top: 5px;
+}

@@ -1,0 +1,41 @@
+p {
+  text-align: center;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  font-family: Arial;
+}
+
+button {
+  margin-left: 650px;
+  background-color: rgb(51,111,221);
+  color: white;
+  border: none;
+  border-radius: 14px;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  padding-left: 12px;
+  padding-right: 12px;
+  font-weight: bold;
+}
+
+.new-text {
+  color: rgb(196,109,65);
+  font-weight: bold;
+  font-size: 12px;
+  margin-bottom: 10px;
+}
+
+.heading-text {
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.slang-text {
+  font-weight: bold;
+  font-size: 36px;
+  margin-bottom: 10px;
+}
+
+.price-text {
+  margin-bottom: 10px;
+}

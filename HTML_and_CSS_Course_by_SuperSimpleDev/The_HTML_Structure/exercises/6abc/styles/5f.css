@@ -1,0 +1,26 @@
+p {
+  font-family: Arial;
+  margin-bottom: 0px;
+  margin-top: 8px;
+}
+
+.stock-price {
+  font-size: 32px;
+}
+
+.currency {
+  color: grey;
+  margin-left: 5px;
+}
+
+.today-status {
+  color: green;
+}
+
+.forecast {
+  color: grey;
+}
+
+.forecast-value {
+  color: rgb(157,76,76);
+}
