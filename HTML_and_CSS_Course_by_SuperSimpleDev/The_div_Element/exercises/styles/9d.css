@@ -1,0 +1,26 @@
+.install-container {
+	width: 400px;
+	background-color: rgb(32,30,30);
+	padding-left: 15px;
+	padding-right: 15px;
+	padding-top: 20px;
+}
+
+p {
+	font-family: Arial;
+	margin-top: 0px
+}
+.install-text {
+	color: white;
+	font-size: 26px;
+	font-weight: bold;
+	margin-bottom: 0px;
+}
+
+.prompt-text {
+	color: grey;
+	font-size: 18px;
+	width: 400px;
+	padding-top: 10px;
+	padding-bottom: 20px;
+}

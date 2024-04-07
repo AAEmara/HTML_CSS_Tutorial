@@ -1,0 +1,44 @@
+.avatar {
+  vertical-align: middle;
+  width: 50px;
+  height: 50px;
+  border-radius: 25px;
+  object-position: center;
+}
+
+.tweet-text {
+  vertical-align: middle;
+  border: none;
+  height: 60px;
+  font-size: 18px;
+  margin-left: 5px;
+  margin-right: 100px;
+	font-family: Arial;
+}
+
+.tweet-button {
+  vertical-align: middle;
+  color: white;
+  background-color: rgb(68,139,212);
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 18px;
+  padding-right: 18px;
+  border: none;
+  border-radius: 30px;
+  font-weight: bold;
+  font-size: 16px;
+	font-family: Arial;
+  cursor: pointer;
+}
+
+.tweet-container {
+	box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
+	border-radius: 8px;
+	padding-left: 15px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	margin-top: 15px;
+	margin-left: 15px;
+	width: 515px;
+}
