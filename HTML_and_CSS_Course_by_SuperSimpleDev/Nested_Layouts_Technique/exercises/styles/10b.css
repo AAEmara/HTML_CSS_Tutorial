@@ -1,0 +1,76 @@
+.tweet-view {
+	border: 1px;
+	border-style: solid;
+	border-color: rgb(189,189,189);
+	width: 535px;
+}
+
+.avatar,
+.profile-info,
+.follow {
+	display: inline-block;
+	vertical-align: top;
+}
+
+.profile-info {
+	width: 200px;
+}
+
+.follow {
+	margin-left: 75px;
+}
+.avatar-img {
+	width: 75px;
+	border-radius: 100px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 15px;
+	padding-right: 15px;
+	margin-top: 15px;
+	margin-left: 8px;
+	margin-right: 8px;
+	object-fit: cover;
+	object-position: center;
+}
+
+.profile-name {
+	font-weight: bold;
+}
+
+.profile-name,
+.profile-desc,
+.profile-tag {
+	margin-top: 0px;
+	margin-bottom: 0px;
+	font-family: Arial;
+	font-size: 22px;
+}
+
+.profile-name {
+	margin-top: 20px;
+}
+
+.profile-desc,
+.profile-tag {
+	color: grey;
+	margin-top: 8px;
+}
+
+.profile-tag {
+	margin-bottom: 15px;
+}
+
+.follow-btn {
+	margin-top: 38px;
+	color: white;
+	background-color: rgb(33,150,243);
+	border: none;
+	border-radius: 6px;
+	font-size: 24px;
+	font-weight: bold;
+	font-family: Arial;
+	padding-top: 12px;
+	padding-bottom: 12px;
+	padding-left: 15px;
+	padding-right: 15px;
+}
