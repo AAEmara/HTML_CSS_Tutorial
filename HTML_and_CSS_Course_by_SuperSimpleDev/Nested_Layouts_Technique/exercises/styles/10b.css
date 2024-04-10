@@ -1,7 +1,12 @@
-.tweet-view {
+.tweeps {
 	border: 1px;
 	border-style: solid;
 	border-color: rgb(189,189,189);
+	width: 535px;
+}
+
+
+.tweet-view {
 	width: 535px;
 }
 
@@ -21,6 +26,7 @@
 }
 .avatar-img {
 	width: 75px;
+	height: 75px;
 	border-radius: 100px;
 	padding-top: 10px;
 	padding-bottom: 10px;
