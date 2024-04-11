@@ -1,0 +1,52 @@
+.ytube-recommends {
+	border: 1px;
+	border-style: solid;
+	border-color: rgb(189,189,189);
+	width: 590px;
+}
+
+.thumbnail,
+.video-info {
+	display: inline-block;
+	vertical-align: top;
+}
+
+img {
+	margin-top: 15px;
+	margin-bottom: 5px;
+	margin-left: 15px;
+	width: 260px;
+	object-fit: cover;
+}
+
+.video-title {
+	width: 280px;
+	font-family: Roboto, Arial;
+	font-weight: bold;
+	font-size: 20px;
+	margin-left: 8px;
+	line-height: 30px;
+	margin-bottom: 0px;
+}
+
+.video-channel,
+.video-stats {
+	color: rgb(66,66,66);
+	font-family: Roboto, Arial;
+	font-size: 18px;
+	margin-left: 8px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+.video-channel {
+	padding-top: 10px;
+}
+
+.video-stats {
+	padding-top: 5px;
+}
+
+.middot {
+	font-weight: bold;
+}
