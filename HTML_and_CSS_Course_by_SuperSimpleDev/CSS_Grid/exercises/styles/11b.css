@@ -1,0 +1,14 @@
+.grid-container {
+	display: grid;
+	grid-template-columns: 50px 1fr 75px;
+	font-family: TimesNewRoman;
+}
+
+.grid-col1,
+.grid-col3 {
+	background-color: lightblue;
+}
+
+.grid-col2 {
+	background-color: lightpink;
+}
