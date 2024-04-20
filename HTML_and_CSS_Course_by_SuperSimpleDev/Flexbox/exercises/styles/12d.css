@@ -1,0 +1,14 @@
+.items-container {
+	height: 50px;
+	border: 1px;
+	border-color: gray;
+	border-style: solid;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.items {
+	background-color: lightpink;
+}

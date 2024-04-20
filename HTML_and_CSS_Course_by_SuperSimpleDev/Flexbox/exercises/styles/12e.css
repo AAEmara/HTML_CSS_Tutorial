@@ -1,0 +1,43 @@
+.feed-container {
+	width: 400px;
+	border: 1px;
+	border-style: solid;
+	border-color: rgb(224,224,224);
+	box-shadow: 0px 0px 1px rgba(0, 0, 0, 0.3);
+	border-radius: 5px;
+}
+
+p {
+	font-family: Arial;
+	font-size: 20px;
+	margin-left: 14px;
+	margin-top: 10px;
+	margin-bottom: 5px;
+}
+
+.messages-feed {
+}
+
+.feed,
+.last-feed {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.feed-count {
+	padding-top: 4px;
+	padding-bottom: 4px;
+	padding-left: 14px;
+	padding-right: 14px;
+	background-color: rgb(25,118,210);
+	color: white;
+	font-weight: bold;
+	border-radius: 16px;
+	margin-right: 15px;
+}
+
+.last-feed {
+	margin-bottom: 2px;
+}
